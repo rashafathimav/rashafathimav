@@ -1,44 +1,125 @@
-## Hi there 👋
-# 👋 Hi, I'm Rasha Fathima!
 
-### 💻 Aspiring Software Developer | Tech Enthusiast
 
-Welcome to my GitHub profile!
+\<div align="center">
+
+
+
+\
+
+
+\</div>
+
+---
 
 ## 👩‍💻 About Me
 
-- 🌱 Learning new technologies
-- 💻 Interested in Web Development
-- ☁️ Exploring AWS Cloud Computing
-- 🚀 Building creative projects
+Hi! I'm **Rasha Fathima**, an aspiring software developer who loves exploring technology and creating things with code.
 
-## 💻 My Tech Stack
+- 🌱 Currently learning and improving my development skills.
+- 💻 Interested in web development and programming.
+- ☁️ Exploring AWS and cloud computing.
+- 🐍 Learning Python and Java.
+- 🎯 Working towards becoming a skilled software developer.
+- 🚀 Believe in learning something new every day!
 
-HTML | CSS | JavaScript | Python | AWS
+---
 
-## 🚀 My Projects
+## 💻 Tech Stack & Tools
 
-### 🌐 Personal Portfolio
-[View My Portfolio](https://github.com/rashafathimav/rashaportfolio)
+### Programming Languages
+
+
+
+
+
+\
+
+
+### Cloud & Tools
+
+
+
+\
+
+
+---
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+
+My personal portfolio website showcasing my introduction, skills and projects.
+
+- **Technologies:** HTML, CSS, JavaScript
+- **Repository:** [View Portfolio Source Code](https://github.com/rashafathimav/rashaportfolio)
+- **Live Website:** [Visit My Portfolio](https://rashafathima.duckdns.org)
+
+---
+
+## 📊 GitHub Statistics
+
+\<div align="center">
+
+
+
+
+
+
+
+\</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+\<div align="center">
+
+
+
+\</div>
+
+---
+
+## 👾 Pac-Man Contribution Graph
+
+\<div align="center">
+
+\<picture>   \<source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/rashafathimav/rashafathimav/output/pacman-contribution-graph-dark.svg](https://raw.githubusercontent.com/rashafathimav/rashafathimav/output/pacman-contribution-graph-dark.svg)">   \<source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/rashafathimav/rashafathimav/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/rashafathimav/rashafathimav/output/pacman-contribution-graph.svg)">   \<img alt="Pac-Man Contribution Graph" src="[https://raw.githubusercontent.com/rashafathimav/rashafathimav/output/pacman-contribution-graph.svg](https://raw.githubusercontent.com/rashafathimav/rashafathimav/output/pacman-contribution-graph.svg)" width="100%"> \</picture>
+
+\</div>
+
+---
+
+## 🎯 What I'm Working Towards
+
+- 📚 Improving my programming knowledge.
+- 🌐 Building creative web development projects.
+- ☁️ Learning more about AWS cloud services.
+- 💡 Developing problem-solving skills.
+- 🚀 Growing as a software developer.
+
+---
 
 ## 🌐 Connect With Me
 
-[GitHub](https://github.com/rashafathimav)
-## 👾 Pac-Man Contribution Graph
+\<div align="center">
 
-![Pacman](https://raw.githubusercontent.com/rashafathimav/rashafathimav/output/pacman-contribution-graph.svg)
+\
 
-<!--
-**rashafathimav/rashafathimav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+\</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+\<div align="center">
+
+### ✨ Thanks for visiting my profile! ✨
+
+**Keep Learning | Keep Building | Keep Growing**
+
+
+
+\</div>
+
+
+
