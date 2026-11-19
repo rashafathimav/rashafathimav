@@ -24,6 +24,9 @@ HTML | CSS | JavaScript | Python | AWS
 ## 🌐 Connect With Me
 
 [GitHub](https://github.com/rashafathimav)
+## 👾 Pac-Man Contribution Graph
+
+![Pacman](https://raw.githubusercontent.com/rashafathimav/rashafathimav/output/pacman-contribution-graph.svg)
 
 <!--
 **rashafathimav/rashafathimav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
